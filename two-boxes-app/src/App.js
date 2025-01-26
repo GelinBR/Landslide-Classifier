@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="App">
       <div className="title-bar">
-        <h1 className="title">Welcome to the Two Boxes App</h1>
+        <h1 className="title">Welcome to the Landslide Clasifier</h1>
       </div>
       <div className="boxes-container">
         <div className="box box1">

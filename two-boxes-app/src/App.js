@@ -6,7 +6,8 @@ import MapView from '@arcgis/core/views/MapView';
 
 const webMapIds = [
   { id: '569f15e3e6e64ef8998cefdcf55d55ad', title: 'River Map' },
-  { id: '89604dc183b84b989f64788ad1f1965e', title: 'Fault Lines' }
+  { id: '89604dc183b84b989f64788ad1f1965e', title: 'Fault Lines' },
+  { id: '930968412e414bdbaced4c68b6dfd77f', title: 'Population Density' },
 ];
 
 function App() {
